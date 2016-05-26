@@ -13,9 +13,7 @@ These code samples will work on any Mac OS X, Windows or Linux computer.  While
  they are all written to use Python version 3.3 or later, you can modify them to
 use Python 2.x with minimal changes.
 
-To run the code samples from Chapter 4, you will need to install Reportlab
-(reportlab.com/software/downloads/) and Pillow (python-pillow.org).  To use the
-"wrappers" example from Chapter 5, you will need to install NumPy (numpy.org).
+To run the code samples from Chapter 4, you will need to install [Reportlab](http://www.reportlab.com/opensource/) and [Pillow](http://python-pillow.org/). To use the "wrappers" example from Chapter 5, you will need to install [NumPy](http://www.numpy.org/).
 All the other examples only require the Python Standard Library.
 
 You can also refer to the following books:
