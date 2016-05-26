@@ -4,7 +4,7 @@
 About the Code Samples
 ----------------------
 
-These code samples all comes from the book Modular Progarmming with Python.
+These code samples all comes from the book [Modular Progarmming with Python](https://www.packtpub.com/application-development/expert-python-programming?utm_source=github&utm_medium=related&utm_campaign=9781847194947).
 They are organized by chapter.  Please feel free to copy and use these in
 whatever way you like -- there are no restrictions at all on the use of these
 code samples.
