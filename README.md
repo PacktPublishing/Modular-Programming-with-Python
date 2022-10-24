@@ -21,3 +21,7 @@ You can also refer to the following books:
 * [Expert Python Programming](https://www.packtpub.com/application-development/expert-python-programming?utm_source=github&utm_medium=related&utm_campaign=9781847194947)
 * [Learning Cython Programming](https://www.packtpub.com/application-development/learning-cython-programming?utm_source=github&utm_medium=related&utm_campaign=9781783280797)
 * [Instant Data Intensive Apps with pandas How-to](https://www.packtpub.com/big-data-and-business-intelligence/instant-data-intensive-apps-pandas-how-instant?utm_source=github&utm_medium=related&utm_campaign=9781782165583)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785884481">https://packt.link/free-ebook/9781785884481 </a> </p>
